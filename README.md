@@ -1,6 +1,9 @@
 # Flask-restful-api
 Flask-restful 用法练习总结笔记
 
+[![Build Status](https://travis-ci.org/mgw2168/testdriven-app.svg?branch=master)](https://travis-ci.org/mgw2168/testdriven-app)
+
+
 # Flask-Restful
 
 ## 一、安装：
